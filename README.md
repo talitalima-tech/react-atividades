@@ -4,11 +4,11 @@ Repositório dedicado ao armazenamento das atividades de React do curso de Desen
 
 ## 📂 Índice de Atividades
 
-| Atividade | Descrição | Status |
-| :--- | :--- | :---: |
-| [01 - Exercício de Fixação](./01-exercicio-fixacao) | Fundamentos de Componentes e Props. | ✅ |
-| [02 - Formulário de Feedback](./02-formulario-feedback) | Manipulação de Estados com `useState`. | ✅ |
-| [03 - Rotas e Componentes](./03-rotas-componentes) | Navegação com `react-router-dom`. | ✅ |
+| Atividade | Descrição | 
+| :--- | :--- | 
+| [01 - Exercício de Fixação](./exercicio-fixacao) | Fundamentos de Componentes e Props. | 
+| [02 - Formulário de Feedback](./formulario-feedback) | Manipulação de Estados com `useState`. | 
+| [03 - Rotas e Componentes](./rotas-componentes) | Navegação com `react-router-dom`. |  |
 
 ## 🛠️ Tecnologias
 - **React.js** (Vite/CRA)
