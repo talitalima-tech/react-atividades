@@ -1,0 +1,26 @@
+.main-wrapper {
+  border: 2px dashed #646cff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.main-header {
+  color: #646cff;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.custom-card {
+  background: #242424;
+  color: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.card-header h4 {
+  margin: 0 0 10px 0;
+  color: #ffca28;
+}
